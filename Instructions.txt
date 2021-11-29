@@ -1,0 +1,15 @@
+These instructions are for Windows users. If you're on Linux or Mac then the steps may vary, and the batch script may not run, so you'll have to make your own.
+
+Feel free test all of these, but they are all the exact same game. I recommend the Javascript version since it will likely be the easiest to run.
+
+Java:
+- Make sure you have java installed and your path variable set up (plenty of tutorials for this online)
+- Download the zip file, make a new folder, extract the contents of the zip file into that new folder
+- Run the batch script, if you got an error or the program didn't start, then you probably don't have Java set up properly.
+
+Javascript:
+- Download the zip file, make a new folder, extract the contents of the zip file into that new folder
+- Run the html file in your favorite browser, but this project has only been tested in chromium based browsers.
+
+Python:
+=coming soon=
